@@ -1,7 +1,7 @@
 <Project>
     <PropertyGroup>
         <OutputPath>bin/$(Configuration)/</OutputPath>
-        <TargetFramework>net7.0</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <LangVersion>latest</LangVersion>
         <Company>TrinityCore</Company>
         <Copyright>Copyright © 2010-2022</Copyright>
